@@ -1137,6 +1137,4 @@ Persist = (function() {
   return P;
 })();
 
-module.exports = {
-  Persist: Persist
-}
+module.exports = Persist;
