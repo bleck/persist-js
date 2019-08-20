@@ -1136,3 +1136,7 @@ Persist = (function() {
   // return top-level namespace
   return P;
 })();
+
+module.exports = {
+  Persist: Persist
+}
