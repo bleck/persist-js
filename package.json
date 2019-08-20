@@ -1,0 +1,23 @@
+{
+  "name": "persist-js",
+  "version": "1.0.0",
+  "description": "Modified version of persist-js to work with bundlers",
+  "main": "src/persist.js",
+  "private": true,
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bleck/persist-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bleck/persist-js/issues"
+  },
+  "homepage": "https://github.com/bleck/persist-js#readme"
+}
